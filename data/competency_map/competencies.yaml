@@ -1,0 +1,17 @@
+competencies:
+  - competency_code: PL-4
+    indicator_code: PL-4.2
+    level: advanced
+    description: Разрабатывает и отлаживает ИИ-системы на C++ под ограниченные аппаратные платформы.
+  - competency_code: DL-1
+    indicator_code: DL-1.11
+    level: intermediate
+    description: Применяет и разрабатывает методы сжатия нейронных сетей.
+  - competency_code: LC-5
+    indicator_code: LC-5.1
+    level: advanced
+    description: Выбирает инженерные практики разработки, развёртывания и сопровождения ML-систем.
+  - competency_code: DL-3
+    indicator_code: DL-3.3
+    level: intermediate
+    description: Реализует и развёртывает модели CV/сигналов на реальных данных.

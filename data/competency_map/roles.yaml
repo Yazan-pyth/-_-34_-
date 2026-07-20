@@ -1,0 +1,7 @@
+roles:
+  - code: MLE
+    name: ML Engineer
+    profile: Embedded ML / Edge AI
+    rationale: >-
+      Сквозная разработка, оптимизация, развёртывание и сопровождение ML-модели
+      на ресурсоограниченной аппаратной платформе.
